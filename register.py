@@ -27,8 +27,3 @@ def register(name, regtype, port):
             pass
     finally:
         sdRef.close()
-
-name = raw_input('enter service name:')
-regtype = raw_input('enter regtype:')
-port = raw_input('enter port')
-register(name, regtype, port)
