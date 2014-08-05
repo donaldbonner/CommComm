@@ -1,3 +1,5 @@
+Project to help me learn about bonjour and zero conf networking
+
 in progress
 
-<p>Python 2.7.5
+Python 2.7.5
